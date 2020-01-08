@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Config>
+	<SubMenu name="File" />
+	<SubMenu name="Edit" />
+	<SubMenu name="View" />
+	<SubMenu name="Draw" />
+	<SubMenu name="Help" />
+</Config>

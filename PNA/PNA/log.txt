@@ -1,0 +1,24 @@
+[2020/1/7 20:17:18] : Appliction Started.
+[2020/1/7 20:17:22] : Application Closed.
+
+[2020/1/7 20:17:27] : Appliction Started.
+[2020/1/7 20:17:30] : Application Closed.
+
+[2020/1/7 21:16:03] : Appliction Started.
+[2020/1/7 21:16:57] : Application Closed.
+
+[2020/1/7 21:19:46] : Appliction Started.
+[2020/1/7 21:20:04] : Application Closed.
+
+[2020/1/7 21:20:45] : Appliction Started.
+[2020/1/7 21:20:49] : Application Closed.
+
+[2020/1/7 21:23:39] : Appliction Started.
+[2020/1/7 21:23:49] : Application Closed.
+
+[2020/1/7 21:23:56] : Appliction Started.
+[2020/1/7 21:24:07] : Application Closed.
+
+[2020/1/8 22:30:13] : Appliction Started.
+[2020/1/8 22:30:17] : Application Closed.
+
