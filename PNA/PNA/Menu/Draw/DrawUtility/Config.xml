@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<Config Enable="true" EntranceModule="DrawUtility.dll" EntranceClass="DrawUtility.DrawUtility">
+<Config Enable="true" EntranceModule="DrawUtility.dll" EntranceClass="DrawUtility.Entrance">
 
 </Config>
