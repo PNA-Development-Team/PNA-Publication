@@ -292,3 +292,64 @@
 [2020/1/13 22:48:54] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
 [2020/1/13 22:51:41] : Application Closed.
 
+[2020/1/13 22:57:37] : Appliction Started.
+[2020/1/13 22:57:37] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/13 22:57:37] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/13 22:58:47] : Application Closed.
+
+[2020/1/22 10:45:29] : Appliction Started.
+[2020/1/22 10:45:30] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 10:45:30] : Can not find the menu folder named Mathematical Tool at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 10:45:30] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 10:46:02] : Application Closed.
+
+[2020/1/22 10:47:24] : Appliction Started.
+[2020/1/22 10:47:25] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 10:47:25] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:05:48] : Application Closed.
+
+[2020/1/22 11:06:01] : Appliction Started.
+[2020/1/22 11:06:03] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:06:03] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:08:26] : Application Closed.
+
+[2020/1/22 11:37:37] : Appliction Started.
+[2020/1/22 11:37:39] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:37:39] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:38:39] : Application Closed.
+
+[2020/1/22 11:39:07] : Appliction Started.
+[2020/1/22 11:39:08] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:39:08] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:40:03] : Application Closed.
+
+[2020/1/22 11:40:57] : Appliction Started.
+[2020/1/22 11:40:58] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:40:58] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 11:44:15] : Application Closed.
+
+[2020/1/22 12:17:56] : Appliction Started.
+[2020/1/22 12:17:57] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 12:17:57] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 12:18:14] : Application Closed.
+
+[2020/1/22 12:18:52] : Appliction Started.
+[2020/1/22 12:18:53] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 12:18:53] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 12:19:12] : Application Closed.
+
+[2020/1/22 12:22:46] : Appliction Started.
+[2020/1/22 12:22:47] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 12:22:47] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 12:23:20] : Application Closed.
+
+[2020/1/22 12:24:13] : Appliction Started.
+[2020/1/22 12:24:14] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 12:24:14] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 12:30:09] : Application Closed.
+
+[2020/1/22 21:12:00] : Appliction Started.
+[2020/1/22 21:12:00] : Can not find the menu folder named Edit at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 21:12:00] : Can not find the menu folder named Help at D:\PNAProject\PNA-Publication\PNA\PNA\Menu.
+[2020/1/22 21:20:20] : Application Closed.
+

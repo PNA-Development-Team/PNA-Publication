@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<Config Enable="true" EntranceModule="FileUtility.dll" EntranceClass="FileUtility.FileUtility">
-
+<Config>
+	<SubMenu name="File" />
+	<SubMenu name="Edit" />
+	<SubMenu name="View" />
+	<SubMenu name="Draw" />
+	<SubMenu name="Mathematical Tool"/>
+	<SubMenu name="Help" />
 </Config>
