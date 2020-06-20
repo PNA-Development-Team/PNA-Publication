@@ -404,3 +404,36 @@
 [2020/6/20 16:20:05] : Appliction Started.
 [2020/6/20 16:30:33] : Application Closed.
 
+[2020/1/14 9:13:44] : Appliction Started.
+[2020/1/14 9:13:44] : Can not find the menu folder named Edit at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 9:13:44] : Can not find the menu folder named Help at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 9:13:57] : Application Closed.
+
+[2020/1/14 10:44:42] : Appliction Started.
+[2020/1/14 10:44:42] : Can not find the menu folder named Edit at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 10:44:42] : Can not find the menu folder named Help at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 10:45:03] : Application Closed.
+
+[2020/1/14 10:58:05] : Appliction Started.
+[2020/1/14 10:58:05] : Can not find the menu folder named Edit at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 10:58:05] : Can not find the menu folder named Help at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 11:18:58] : Application Closed.
+
+[2020/1/14 15:08:06] : Appliction Started.
+[2020/1/14 15:08:07] : Can not find the menu folder named Edit at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 15:08:07] : Can not find the menu folder named Help at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 15:08:23] : Application Closed.
+
+[2020/1/14 15:08:37] : Appliction Started.
+[2020/1/14 15:08:38] : Can not find the menu folder named Edit at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 15:08:38] : Can not find the menu folder named Help at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 15:09:05] : Application Closed.
+
+[2020/1/14 15:10:33] : Appliction Started.
+[2020/1/14 15:10:34] : Can not find the menu folder named Edit at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 15:10:34] : Can not find the menu folder named Help at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 15:11:04] : Appliction Started.
+[2020/1/14 15:11:05] : Can not find the menu folder named Edit at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 15:11:05] : Can not find the menu folder named Help at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
+[2020/1/14 15:12:17] : Application Closed.
+
