@@ -437,3 +437,233 @@
 [2020/1/14 15:11:05] : Can not find the menu folder named Help at D:\Ryan\Github\PNA\PNA-Publication\PNA\PNA\Menu.
 [2020/1/14 15:12:17] : Application Closed.
 
+[2020/6/20 19:50:06] : Appliction Started.
+[2020/6/20 20:04:30] : Application Closed.
+
+[2020/6/20 22:10:05] : Appliction Started.
+[2020/6/20 22:10:32] : Application Closed.
+
+[2020/6/20 22:11:16] : Appliction Started.
+[2020/6/20 22:18:08] : Application Closed.
+
+[2020/6/20 22:18:17] : Appliction Started.
+[2020/6/20 22:18:47] : Application Closed.
+
+[2020/6/20 22:19:05] : Appliction Started.
+[2020/6/20 22:20:54] : Application Closed.
+
+[2020/6/20 22:22:23] : Appliction Started.
+[2020/6/20 22:47:35] : Application Closed.
+
+[2020/6/21 17:32:51] : Appliction Started.
+[2020/6/21 17:39:17] : Application Closed.
+
+[2020/6/21 17:51:36] : Appliction Started.
+[2020/6/21 17:56:27] : Application Closed.
+
+[2020/6/22 10:02:03] : Appliction Started.
+[2020/6/22 10:35:59] : Application Closed.
+
+[2020/6/22 10:36:50] : Appliction Started.
+[2020/6/22 10:38:15] : Application Closed.
+
+[2020/6/22 10:38:35] : Appliction Started.
+[2020/6/22 10:52:44] : Application Closed.
+
+[2020/6/22 10:54:03] : Appliction Started.
+[2020/6/22 10:56:27] : Application Closed.
+
+[2020/6/22 10:56:32] : Appliction Started.
+[2020/6/22 10:57:53] : Application Closed.
+
+[2020/6/22 10:57:57] : Appliction Started.
+[2020/6/22 16:24:38] : Application Closed.
+
+[2020/6/22 16:25:27] : Appliction Started.
+[2020/6/22 16:27:02] : Application Closed.
+
+[2020/6/22 16:27:49] : Appliction Started.
+[2020/6/22 16:29:15] : Application Closed.
+
+[2020/6/22 16:29:19] : Appliction Started.
+[2020/6/22 16:40:55] : Application Closed.
+
+[2020/6/22 16:41:22] : Appliction Started.
+[2020/6/22 16:42:16] : Application Closed.
+
+[2020/6/22 16:42:41] : Appliction Started.
+[2020/6/22 17:10:48] : Application Closed.
+
+[2020/6/22 17:11:21] : Appliction Started.
+[2020/6/22 17:13:08] : Application Closed.
+
+[2020/6/22 17:13:30] : Appliction Started.
+[2020/6/22 17:16:48] : Application Closed.
+
+[2020/6/22 17:17:53] : Appliction Started.
+[2020/6/22 17:18:30] : Application Closed.
+
+[2020/6/22 17:18:50] : Appliction Started.
+[2020/6/22 17:27:15] : Application Closed.
+
+[2020/6/22 17:27:30] : Appliction Started.
+[2020/6/22 17:28:05] : Application Closed.
+
+[2020/6/22 17:28:18] : Appliction Started.
+[2020/6/22 17:28:46] : Application Closed.
+
+[2020/6/22 17:28:58] : Appliction Started.
+[2020/6/22 20:04:49] : Application Closed.
+
+[2020/6/22 20:08:15] : Appliction Started.
+[2020/6/22 20:13:45] : Application Closed.
+
+[2020/6/22 20:14:00] : Appliction Started.
+[2020/6/22 20:21:19] : Application Closed.
+
+[2020/6/22 20:22:36] : Appliction Started.
+[2020/6/22 20:32:14] : Application Closed.
+
+[2020/6/22 21:48:28] : Appliction Started.
+[2020/6/22 22:27:15] : Application Closed.
+
+[2020/6/22 22:32:24] : Appliction Started.
+[2020/6/22 22:54:19] : Application Closed.
+
+[2020/6/22 22:55:09] : Appliction Started.
+[2020/6/23 13:29:29] : Application Closed.
+
+[2020/6/23 14:21:35] : Appliction Started.
+[2020/6/23 14:56:42] : Application Closed.
+
+[2020/6/23 14:57:18] : Appliction Started.
+[2020/6/23 15:40:25] : Application Closed.
+
+[2020/6/23 22:02:41] : Appliction Started.
+[2020/6/23 22:02:44] : Application Closed.
+
+[2020/6/23 22:02:58] : Appliction Started.
+[2020/6/23 22:03:01] : Application Closed.
+
+[2020/6/23 22:03:24] : Appliction Started.
+[2020/6/23 22:03:26] : Application Closed.
+
+[2020/6/23 22:04:01] : Appliction Started.
+[2020/6/23 22:04:48] : Appliction Started.
+[2020/6/23 22:29:20] : Application Closed.
+
+[2020/6/23 22:29:57] : Appliction Started.
+[2020/6/23 22:51:40] : Application Closed.
+
+[2020/6/23 22:52:36] : Appliction Started.
+[2020/6/23 23:30:23] : Application Closed.
+
+[2020/6/24 10:30:50] : Appliction Started.
+[2020/6/24 10:39:00] : Application Closed.
+
+[2020/6/24 10:41:11] : Appliction Started.
+[2020/6/24 10:43:42] : Application Closed.
+
+[2020/6/24 10:43:48] : Appliction Started.
+[2020/6/24 16:25:25] : Application Closed.
+
+[2020/6/24 17:13:10] : Appliction Started.
+[2020/6/24 17:14:53] : Application Closed.
+
+[2020/6/24 17:15:09] : Appliction Started.
+[2020/6/24 17:15:35] : Application Closed.
+
+[2020/6/24 17:15:54] : Appliction Started.
+[2020/6/24 17:18:33] : Application Closed.
+
+[2020/6/24 17:19:11] : Appliction Started.
+[2020/6/24 17:20:27] : Application Closed.
+
+[2020/6/24 17:20:29] : Appliction Started.
+[2020/6/24 17:26:15] : Application Closed.
+
+[2020/6/24 17:28:09] : Appliction Started.
+[2020/6/24 17:31:04] : Application Closed.
+
+[2020/6/24 17:31:13] : Appliction Started.
+[2020/6/24 17:38:37] : Application Closed.
+
+[2020/6/24 17:39:16] : Appliction Started.
+[2020/6/24 17:41:08] : Application Closed.
+
+[2020/6/24 17:41:14] : Appliction Started.
+[2020/6/24 17:41:52] : Application Closed.
+
+[2020/6/24 17:42:08] : Appliction Started.
+[2020/6/24 17:52:57] : Application Closed.
+
+[2020/6/24 17:53:18] : Appliction Started.
+[2020/6/24 18:08:21] : Application Closed.
+
+[2020/6/24 21:25:39] : Appliction Started.
+[2020/6/24 21:25:45] : Application Closed.
+
+[2020/6/25 12:13:20] : Appliction Started.
+[2020/6/25 13:29:55] : Appliction Started.
+[2020/6/25 13:45:52] : Application Closed.
+
+[2020/6/26 15:14:59] : Appliction Started.
+[2020/6/26 15:15:03] : Application Closed.
+
+[2020/6/26 17:25:31] : Appliction Started.
+[2020/6/26 17:26:08] : Application Closed.
+
+[2020/6/26 17:40:47] : Appliction Started.
+[2020/6/26 17:41:45] : Application Closed.
+
+[2020/6/26 19:34:13] : Appliction Started.
+[2020/6/26 19:34:44] : Application Closed.
+
+[2020/6/26 20:22:43] : Appliction Started.
+[2020/6/26 20:29:38] : Application Closed.
+
+[2020/6/26 21:24:06] : Appliction Started.
+[2020/6/26 22:10:22] : Application Closed.
+
+[2020/6/26 22:11:12] : Appliction Started.
+[2020/6/26 22:11:16] : Application Closed.
+
+[2020/6/26 22:11:46] : Appliction Started.
+[2020/6/26 22:12:20] : Appliction Started.
+[2020/6/26 22:20:37] : Appliction Started.
+[2020/6/26 22:24:20] : Appliction Started.
+[2020/6/26 22:31:06] : Application Closed.
+
+[2020/6/26 22:38:15] : Appliction Started.
+[2020/6/26 23:17:03] : Appliction Started.
+[2020/6/26 23:20:26] : Appliction Started.
+[2020/6/26 23:24:51] : Appliction Started.
+[2020/6/26 23:29:59] : Application Closed.
+
+[2020/6/27 12:05:06] : Appliction Started.
+[2020/6/27 12:05:09] : Application Closed.
+
+[2020/6/27 12:05:16] : Appliction Started.
+[2020/6/27 12:11:56] : Application Closed.
+
+[2020/6/27 12:12:27] : Appliction Started.
+[2020/6/27 12:14:14] : Application Closed.
+
+[2020/6/27 12:14:30] : Appliction Started.
+[2020/6/27 12:15:33] : Application Closed.
+
+[2020/6/27 12:15:51] : Appliction Started.
+[2020/6/27 12:16:48] : Application Closed.
+
+[2020/6/27 12:17:32] : Appliction Started.
+[2020/6/27 12:27:42] : Application Closed.
+
+[2020/6/27 12:29:35] : Appliction Started.
+[2020/6/27 21:42:07] : Application Closed.
+
+[2020/6/28 19:31:18] : Appliction Started.
+[2020/6/28 19:32:02] : Application Closed.
+
+[2020/6/29 13:31:02] : Appliction Started.
+[2020/6/29 13:31:04] : Application Closed.
+
